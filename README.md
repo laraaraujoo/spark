@@ -30,8 +30,8 @@ Depois de criarmos os dados e as colunas, juntamos as informações no df para c
 
 ## Passo 5 : Uso do SQL
 
-Usamos o SQL e o pyspark para fazermos a soma das idades 
+Usamos o SQL e o pyspark para fazermos a soma e média das idades.
 
 ## Passo 6 : Plotando gráficos
 
-Usamos o matplotlib para criarmos um gráfico de barras com a somatória dos gêneros.
+Usamos o matplotlib para criarmos um gráfico de barras, pizza e histograma. 
